@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_Current_Air_Pollution_JakartaSelatan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc240d00-648f-4b88-948e-3eda93ee3c99</testCaseGuid>
+</TestCaseEntity>

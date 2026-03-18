@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_5Day_Forecast_JakartaSelatan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce2047c-182f-4aad-aa15-2a3908b33279</testCaseGuid>
+</TestCaseEntity>

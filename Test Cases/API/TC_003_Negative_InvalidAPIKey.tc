@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_Negative_InvalidAPIKey</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1ef90a4-5606-4f98-aeba-ad5758ed2309</testCaseGuid>
+</TestCaseEntity>
